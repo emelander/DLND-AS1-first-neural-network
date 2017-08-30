@@ -7,7 +7,7 @@ A simple neural network to predict daily bike rental ridership.
 To run the network locally:
 ```shell
     git clone https://github.com/emelander/DLND-AS1-first-neural-network.git
-    cd DLND-first-neural-network
+    cd DLND-AS1-first-neural-network
     # Create a conda environment if you want or use one you already have
     conda create --name dlnd python=3
     source activate dlnd
